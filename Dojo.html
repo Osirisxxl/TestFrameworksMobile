@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+
+        <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+        Remove this if you use the .htaccess -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+        <title>Dojo</title>
+        <meta name="description" content="" />
+        <meta name="author" content="jepicard" />
+
+        <meta name="viewport" content="width=device-width; initial-scale=1.0" />
+
+        <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+        <script src="http://ajax.googleapis.com/ajax/libs/dojo/1.8.1/dojo/dojo.js"
+        data-dojo-config="async:true"></script>
+        <link rel="stylesheet" type="text/css" href="dojox/mobile/themes/iphone/iphone.css">
+        </link>
+        <script>
+			// Load the widget parser and mobile base
+			require(["dojox/mobile/parser", "dojox/mobile/deviceTheme", "dojox/mobile/compat", "dojox/mobile", "dojox/mobile/SpinWheel", "dojox/mobile/SwapView", "dojox/mobile/ScrollableView"], function(parser, deviceTheme) {
+
+				// Parse the page for widgets!
+				parser.parse();
+			});
+        </script>
+    </head>
+
+    <body>
+        <div id="view1" data-dojo-type="dojox.mobile.View">
+            <h1 data-dojo-type="dojox.mobile.Heading" data-dojo-props='back:"back",
+            moveTo:"index.html"'>DojoxMobile Showcase</h1>
+            <div>
+                <ul data-dojo-type="dojox.mobile.RoundRectList">
+                    <li data-dojo-type="dojox.mobile.ListItem"
+                    data-dojo-props='moveTo:"view2",
+                    transition:"slide"'>
+                        Swipe demo
+                    </li>
+                    <li data-dojo-type="dojox.mobile.ListItem"
+                    data-dojo-props='moveTo:"view3",
+                    transition:"slide"'>
+                        Go To View 3
+                    </li>
+                    <li data-dojo-type="dojox.mobile.ListItem"
+                    data-dojo-props='moveTo:"view4",
+                    transition:"slide"'>
+                        Go To View 4
+                    </li>
+                    <li data-dojo-type="dojox.mobile.ListItem"
+                    data-dojo-props='moveTo:"view5",
+                    transition:"slide"'>
+                        Transitions demo
+                    </li>
+                </ul>
+            </div>
+            <div id="spin1" data-dojo-type="dojox.mobile.SpinWheel" style="width: 270px">
+                <div data-dojo-type="dojox.mobile.SpinWheelSlot"
+                labels='A,B,C,D,E,F,G,H,I,J,K'
+                style="text-align:center;width:40px;"></div>
+                <div data-dojo-type="dojox.mobile.SpinWheelSlot"
+                labelFrom="3000" labelTo="3100"
+                style="width:70px;"></div>
+
+                <div id='txt' class="mblSpinWheelSlot" labels='.' style=" width :30px;"></div>
+
+                <div data-dojo-type="dojox.mobile.SpinWheelSlot"
+                labelFrom="0" labelTo="9"
+                style="width:30px;"></div>
+                <div data-dojo-type="dojox.mobile.SpinWheelSlot"
+                labels='pt,px,cm'
+                style="width:70px;"></div>
+            </div>
+        </div>
+
+        <div id="view2" data-dojo-type="dojox.mobile.SwapView">
+            <h1 data-dojo-type="dojox.mobile.Heading"
+            data-dojo-props='back:"View 1",
+            moveTo:"view1"'>View 2</h1>
+            <h2 data-dojo-type="dojox.mobile.RoundRectCategory">Page flipping demo</h2>
+            <div data-dojo-type="dojox.mobile.RoundRect">
+                Swipe the screen left or right to flip between the views.
+            </div>
+        </div>
+
+        <div data-dojo-type="dojox.mobile.SwapView">
+            <h1 data-dojo-type="dojox.mobile.Heading">View 2bis</h1>
+            <div data-dojo-type="dojox.mobile.RoundRect">
+                View 2bis
+            </div>
+        </div>
+        <div data-dojo-type="dojox.mobile.SwapView">
+            <h1 data-dojo-type="dojox.mobile.Heading">View 2ter</h1>
+            <div data-dojo-type="dojox.mobile.RoundRect">
+                View 2ter
+            </div>
+        </div>
+
+        </div>
+
+        <div id="view3" data-dojo-type="dojox.mobile.View">
+            <h1 data-dojo-type="dojox.mobile.Heading"
+            data-dojo-props='back:"back",
+            moveTo:"view1"'>View 3</h1>
+        </div>
+
+        <div id="view4" data-dojo-type="dojox.mobile.View">
+            <h1 data-dojo-type="dojox.mobile.Heading"
+            data-dojo-props='back:"back",
+            moveTo:"view1"'>View 4</h1>
+        </div>
+
+        <div id="view5" data-dojo-type="dojox.mobile.ScrollableView">
+            <h1 data-dojo-type="dojox.mobile.Heading" data-dojo-props='back:"back",
+            moveTo:"view1"'>Transitions show</h1>
+            <h2 data-dojo-type="dojox.mobile.RoundRectCategory">Standard Transitions</h2>
+            <ul data-dojo-type="dojox.mobile.RoundRectList">
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"slide"'>
+                    Slide
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"slide", transitionDir:-1'>
+                    Slide (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"flip"'>
+                    Flip
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"fade"'>
+                    Fade
+                </li>
+            </ul>
+            <h2 data-dojo-type="dojox.mobile.RoundRectCategory">Extended Transitions</h2>
+            <ul data-dojo-type="dojox.mobile.RoundRectList">
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"dissolve"'>
+                    Dissolve
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"cover"'>
+                    Cover
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"cover", transitionDir:-1'>
+                    Cover (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"reveal"'>
+                    Reveal
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"reveal", transitionDir:-1'>
+                    Reveal (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"slidev"'>
+                    Slide Vertical
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"slidev", transitionDir:-1'>
+                    Slide Vertical (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"coverv"'>
+                    Cover Vertical
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"coverv", transitionDir:-1'>
+                    Cover Vertical (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"revealv"'>
+                    Reveal Vertical
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"revealv", transitionDir:-1'>
+                    Reveal Vertical (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"swirl"'>
+                    Swirl
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"swirl", transitionDir:-1'>
+                    Swirl (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"zoomOut"'>
+                    Zoom Out
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"zoomIn"'>
+                    Zoom In
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"scaleOut"'>
+                    Scale Out
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5b", transition:"scaleIn"'>
+                    Scale In
+                </li>
+            </ul>
+        </div>
+        <div id="view5b" data-dojo-type="dojox.mobile.ScrollableView">
+            <h1 data-dojo-type="dojox.mobile.Heading" data-dojo-props='back:"back",
+            moveTo:"view1"'>Transitions show</h1>
+            <h2 data-dojo-type="dojox.mobile.RoundRectCategory">Standard Transitions</h2>
+            <ul data-dojo-type="dojox.mobile.RoundRectList">
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"slide"'>
+                    Slide
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"slide", transitionDir:-1'>
+                    Slide (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"flip"'>
+                    Flip
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"fade"'>
+                    Fade
+                </li>
+            </ul>
+            <h2 data-dojo-type="dojox.mobile.RoundRectCategory">Extended Transitions</h2>
+            <ul data-dojo-type="dojox.mobile.RoundRectList">
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"dissolve"'>
+                    Dissolve
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"cover"'>
+                    Cover
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"cover", transitionDir:-1'>
+                    Cover (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"reveal"'>
+                    Reveal
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"reveal", transitionDir:-1'>
+                    Reveal (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"slidev"'>
+                    Slide Vertical
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"slidev", transitionDir:-1'>
+                    Slide Vertical (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"coverv"'>
+                    Cover Vertical
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"coverv", transitionDir:-1'>
+                    Cover Vertical (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"revealv"'>
+                    Reveal Vertical
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"revealv", transitionDir:-1'>
+                    Reveal Vertical (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"swirl"'>
+                    Swirl
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"swirl", transitionDir:-1'>
+                    Swirl (Reverse)
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"zoomOut"'>
+                    Zoom Out
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"zoomIn"'>
+                    Zoom In
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"scaleOut"'>
+                    Scale Out
+                </li>
+                <li data-dojo-type="dojox.mobile.ListItem" data-dojo-props='moveTo:"view5", transition:"scaleIn"'>
+                    Scale In
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
