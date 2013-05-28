@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21b638ab-834f-447e-a38b-a6a1f8170e18" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/TestMobileFrameworks.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/arrow-button-bg-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/arrow-button-bg-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/arrow-button-bg-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/arrow-button-bg-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/arrow-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/arrow-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/arrow-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/arrow-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/arrow-button-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/arrow-button-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/arrow-button-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/arrow-button-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/arrow-button-head.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/arrow-button-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/arrow-button-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/arrow-button-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/arrow-button-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/arrow-button-right-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/arrow-button-right-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/arrow-button-right-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/arrow-button-right-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/arrow-button-right-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/arrow-button-right-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/arrow-button-right-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/arrow-button-right-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/blue-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/blue-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/blue-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/blue-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/blue-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/blue-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/blue-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/blue-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buenosaires.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/button-arrow-head-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/button-arrow-head-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/button-arrow-head-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/button-arrow-head-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/button-chk-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/button-chk-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/button-chk-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/button-chk-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/button-unsel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/button-unsel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/button-unsel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/button-unsel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/dijit/compat/calendar-datelabel-act-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/dijit/compat/calendar-datelabel-act-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/dijit/compat/calendar-datelabel-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/dijit/compat/calendar-datelabel-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/dijit/compat/calendar-datelabel-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/dijit/compat/calendar-daylabel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/dijit/compat/calendar-month-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/dijit/compat/calendar-month-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/dijit/compat/calendar-month-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/dijit/compat/calendar-month-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/dijit/compat/calendar-year-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/dijit/compat/calendar-year-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/dijit/compat/calendar-year-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/dijit/compat/calendar-year-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/capetown.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/edge-categ-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/gray-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/gray-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/gray-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/icon-content-heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/icon-content-heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/icon-content-heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/icon-content-heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/ipad-arrow-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/ipad-arrow-button-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/ipad-arrow-button-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/ipad-arrow-button-right-head-sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/ipad-arrow-button-right-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/ipad-arrow-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/ipad-heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlackCircleCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlackDownArrow16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlackLeftArrow16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlackRightArrow16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlackUpArrow16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlueBall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlueCircleArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlueCircleMinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlueCirclePlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBlueMinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonBluePlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonCheck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonCheckboxOff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonCheckboxOn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonDarkBlueCheck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonDarkBlueMinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonDarkBluePlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGrayArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGrayCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGrayKnob.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGrayMinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGrayPlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGrayStar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGreenBall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGreenCircleArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGreenCircleMinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonGreenCirclePlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonOrangeBall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonRedBall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonRedCircleArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonRedCircleMinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonRedCirclePlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonRedCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonRedMinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonRedPlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonSilverCircleDownArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonSilverCircleGrayButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonSilverCircleGreenButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonSilverCircleGreenPlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonSilverCircleOrangeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonSilverCircleRedCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteCheck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteCross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteDownArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteDownArrow16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteLeftArrow16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteMinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhitePlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteRightArrow16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteSearch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteUpArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonWhiteUpArrow16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/compat/mblDomButtonYellowStar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/newyork.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/paris.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/red-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/red-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/red-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/red-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/red-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/red-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/red-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/red-button-sel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/seoul.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/slider-h-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/slider-h-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/slider-h-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/slider-h-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/slider-h-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/slider-h-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/slider-h-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/slider-h-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/slider-handle-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/slider-handle-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/slider-handle-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/slider-handle-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/compat/spinwheel-bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/compat/spinwheel-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sqli.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-arc-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-arc-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-arc1-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-arc1-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-arc1-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-arc1-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-arc1-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-arc1-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-arc1-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-arc1-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-arc1-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-arc1-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-arc1-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-arc1-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-arc2-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-arc2-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-arc2-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-arc2-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-arc2-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-arc2-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-arc2-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-arc2-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-arc2-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-arc2-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-arc2-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-arc2-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-default-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-default-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-default-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-round-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-round-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-round1-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-round1-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-round1-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-round1-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-round1-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-round1-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-round1-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-round1-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-round1-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-round1-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-round1-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-round1-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-round2-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-round2-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-round2-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-round2-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-round2-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-round2-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-round2-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-round2-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-round2-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-round2-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-round2-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-round2-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-square-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-square-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-square-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-square-k.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-square-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-square-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-square-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-square-l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/switch-square-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/switch-square-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/switch-square-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/switch-square-r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sydney.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/tab-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/tab-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/tab-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/tab-orange-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/tab-orange-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/tab-seg-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/tab-seg-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/tab-seg-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/tab-seg-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/tab-seg-sel-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/tab-seg-sel-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/tab-seg-sel-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/tab-seg-sel-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/tab-sel-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/tab-sel-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/tab-sel-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/tab-slim-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/tab-slim-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/tab-slim-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/tab-slim-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/tab-tall-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/tab-tall-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/tab-tall-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/tab-tall-bar-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/images/thumb-overlay-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/images/thumb-overlay-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/images/thumb-overlay-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/images/thumb-overlay-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/images/thumb-overlay-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/images/thumb-overlay-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/images/thumb-overlay-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/images/thumb-overlay-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/images/thumb-overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/images/thumb-overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/images/thumb-overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/images/thumb-overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/togglebutton-chk-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/togglebutton-chk-mark-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/togglebutton-chk-mark-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/togglebutton-chk-mark-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/togglebutton-chk-mark-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/tooltip-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/tooltip-heading-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/compat/valuepicker-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/compat/valuepicker-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/compat/valuepicker-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/valuepicker-button-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/compat/white-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Accordion-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Accordion-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Accordion-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Accordion-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Accordion-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Accordion-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Accordion-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Accordion-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Accordion-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Accordion.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/AlertDialog.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/AlertDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Audio.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Audio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Badge.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Badge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Button-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Button-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Button-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Button-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Button-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Button-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Button-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Button-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Button-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Button.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/dijit/Calendar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/dijit/Calendar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/dijit/Calendar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/dijit/Calendar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/dijit/Calendar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/dijit/Calendar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/dijit/Calendar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/dijit/Calendar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/dijit/Calendar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/dijit/Calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/dijit/Calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/dijit/Calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/dijit/Calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/dijit/Calendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/dijit/Calendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/dijit/Calendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/dijit/Calendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/dijit/Calendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Carousel.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/CarouselItem.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/CarouselItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/CheckBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/CheckBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/CheckBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/CheckBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/CheckBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/CheckBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/CheckBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/CheckBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/CheckBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/CheckBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/CheckBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/CheckBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/CheckBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/CheckBox.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/CheckBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/CheckBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/CheckBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/CheckBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/CheckBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/CheckBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/dijit/ColorPalette.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/dijit/ColorPicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ComboBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ComboBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ComboBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ComboBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ComboBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ComboBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ComboBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ComboBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ComboBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ComboBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ComboBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ComboBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ComboBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ComboBox.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ComboBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ComboBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ComboBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ComboBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ComboBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Container.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ContentPane.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ContentPane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/ContentTypeMap.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/ContentTypeMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/DataCarousel.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/DataCarousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/DataHandler.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/DataHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/DatePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/DatePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/DatePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/DatePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/DatePicker.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/DatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackCircleCross-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackCircleCross.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackDownArrow16-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackDownArrow16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackLeftArrow16-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackLeftArrow16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackRightArrow16-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackRightArrow16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackUpArrow16-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlackUpArrow16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueBadge-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueBadge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueBall-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueBall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueCircleArrow-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueCircleArrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueCircleMinus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueCircleMinus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueCirclePlus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonBlueCirclePlus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonCheckboxOff-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonCheckboxOff.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonCheckboxOn-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonCheckboxOn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonColorButtons-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonColorButtons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonDarkBlueCheck-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonDarkBlueCheck.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayArrow-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayArrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayCross-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayCross.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayKnob-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayKnob.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayMinus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayMinus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayPlus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayPlus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayRoundRect-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayRoundRect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayStar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGrayStar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenBadge-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenBadge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenBall-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenBall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenCircleArrow-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenCircleArrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenCircleMinus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenCircleMinus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenCirclePlus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonGreenCirclePlus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonOrangeBall-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonOrangeBall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedBadge-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedBadge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedBall-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedBall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedCircleArrow-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedCircleArrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedCircleMinus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedCircleMinus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedCirclePlus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedCirclePlus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedCross-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonRedCross.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleDownArrow-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleDownArrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleGrayButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleGrayButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleGreenButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleGreenButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleGreenPlus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleGreenPlus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleOrangeButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleOrangeButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleRedCross-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonSilverCircleRedCross.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonTransparent19.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonTransparent29.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonTransparent30.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteArrow-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteArrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteCheck-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteCheck.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteCross-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteCross.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteDownArrow-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteDownArrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteDownArrow16-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteDownArrow16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteLeftArrow16-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteLeftArrow16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteMinus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteMinus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhitePlus-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhitePlus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteRightArrow16-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteRightArrow16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteSearch-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteSearch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteUpArrow-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteUpArrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteUpArrow16-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonWhiteUpArrow16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonYellowStar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons/DomButtonYellowStar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/EdgeToEdgeCategory-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/EdgeToEdgeCategory.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/EdgeToEdgeCategory.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/EdgeToEdgeCategory.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/EdgeToEdgeCategory.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/EdgeToEdgeCategory.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/EdgeToEdgeCategory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/EdgeToEdgeCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/EdgeToEdgeCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/EdgeToEdgeCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/EdgeToEdgeCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/EdgeToEdgeCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/EdgeToEdgeDataList.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/EdgeToEdgeDataList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/EdgeToEdgeList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/EdgeToEdgeList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/EdgeToEdgeList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/EdgeToEdgeList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/EdgeToEdgeList.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/EdgeToEdgeList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/EdgeToEdgeList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/EdgeToEdgeList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/EdgeToEdgeList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/EdgeToEdgeList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/EdgeToEdgeList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/EdgeToEdgeStoreList.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/EdgeToEdgeStoreList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ExpandingTextArea.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ExpandingTextArea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/FixedSplitter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/FixedSplitter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/FixedSplitter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/FixedSplitter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/FixedSplitter.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/FixedSplitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/FixedSplitter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/FixedSplitter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/FixedSplitter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/FixedSplitter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/FixedSplitter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/FixedSplitterPane.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/FixedSplitterPane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/GridLayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/GridLayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/GridLayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/GridLayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/GridLayout.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/GridLayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/GridLayout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/GridLayout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/GridLayout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/GridLayout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/GridLayout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Heading-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Heading-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Heading-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Heading-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Heading-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Heading-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Heading-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Heading-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Heading-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Heading.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Heading.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Heading.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Heading.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Heading.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Heading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Heading.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Heading.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Heading.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Heading.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Heading.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/HtmlContentHandler.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/HtmlContentHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/HtmlScriptContentHandler.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/HtmlScriptContentHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Icon.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Icon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/IconContainer-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/IconContainer-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/IconContainer-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/IconContainer-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/IconContainer-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/IconContainer-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/IconContainer-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/IconContainer-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/IconContainer-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/IconContainer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/IconContainer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/IconContainer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/IconContainer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/IconContainer.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/IconContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/IconContainer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/IconContainer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/IconContainer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/IconContainer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/IconContainer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/IconContainer_keyframes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/IconItem.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/IconItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/IconMenu-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/IconMenu-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/IconMenu-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/IconMenu-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/IconMenu-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/IconMenu-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/IconMenu-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/IconMenu-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/IconMenu-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/IconMenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/IconMenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/IconMenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/IconMenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/IconMenu.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/IconMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/IconMenu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/IconMenu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/IconMenu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/IconMenu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/IconMenu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/IconMenuItem.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/IconMenuItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/ImageThumbView.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/ImageThumbView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/ImageView.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/ImageView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/JsonContentHandler.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/JsonContentHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/List.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ListItem-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ListItem-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ListItem-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ListItem-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ListItem-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ListItem-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ListItem-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ListItem-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ListItem-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ListItem.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ListItem.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ListItem.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ListItem.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ListItem.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ListItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ListItem.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ListItem.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ListItem.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ListItem.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ListItem.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/ListSelector.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/ListSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Opener-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Opener-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Opener-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Opener-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Opener.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Opener.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Opener.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Opener.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Opener.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Opener.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Overlay-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Overlay-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Overlay-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Overlay-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Overlay-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Overlay-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Overlay-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Overlay-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Overlay-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Overlay.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Overlay.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Overlay.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Overlay.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Overlay.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Overlay.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Overlay.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Overlay.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Overlay.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Overlay.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/PageIndicator-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/PageIndicator-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/PageIndicator-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/PageIndicator-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/PageIndicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/PageIndicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/PageIndicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/PageIndicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/PageIndicator.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/PageIndicator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/PageIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/PageIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/PageIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/PageIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/PageIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/PageTurning.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Pane.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Pane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/PatternFileTypeMap.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/PatternFileTypeMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ProgressBar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ProgressBar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ProgressBar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ProgressBar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ProgressBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ProgressBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ProgressBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ProgressBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ProgressBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ProgressBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ProgressBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ProgressBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ProgressBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ProgressBar.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ProgressBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ProgressBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ProgressBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ProgressBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ProgressBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ProgressBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ProgressIndicator-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ProgressIndicator-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ProgressIndicator-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ProgressIndicator-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ProgressIndicator-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ProgressIndicator-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ProgressIndicator-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ProgressIndicator-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ProgressIndicator-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ProgressIndicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ProgressIndicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ProgressIndicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ProgressIndicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ProgressIndicator.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ProgressIndicator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ProgressIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ProgressIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ProgressIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ProgressIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ProgressIndicator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RadioButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RadioButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RadioButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RadioButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RadioButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RadioButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/RadioButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RadioButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RadioButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RadioButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RadioButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RadioButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RadioButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RadioButton.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RadioButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RadioButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RadioButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/RadioButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RadioButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RadioButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Rating.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRect-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRect-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRect-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRect-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRect-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRect-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/RoundRect-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRect-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRect-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRect.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRect.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRect.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/RoundRect.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRect.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRect.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRectCategory-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRectCategory.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRectCategory.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRectCategory.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRectCategory.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRectCategory.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRectCategory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRectCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRectCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/RoundRectCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRectCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRectCategory.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRectDataList.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRectDataList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRectList-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRectList-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRectList-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRectList-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRectList-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRectList-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/RoundRectList-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRectList-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRectList-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRectList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRectList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRectList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRectList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRectList.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRectList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/RoundRectList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/RoundRectList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/RoundRectList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/RoundRectList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/RoundRectList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRectStoreList.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/RoundRectStoreList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/SceneAssistant.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/SceneAssistant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/SceneController.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/SceneController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ScreenSizeAware.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ScreenSizeAware.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ScrollablePane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ScrollablePane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ScrollablePane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ScrollablePane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ScrollablePane.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ScrollablePane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ScrollablePane.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ScrollablePane.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ScrollablePane.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ScrollablePane.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ScrollablePane.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ScrollableView.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ScrollableView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SearchBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SearchBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SearchBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SearchBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SearchBox.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SearchBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SearchBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SearchBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/SearchBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SearchBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SearchBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SimpleDialog-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SimpleDialog-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SimpleDialog-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SimpleDialog-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SimpleDialog-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SimpleDialog-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/SimpleDialog-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SimpleDialog-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SimpleDialog-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SimpleDialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SimpleDialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SimpleDialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SimpleDialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SimpleDialog.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SimpleDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SimpleDialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SimpleDialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/SimpleDialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SimpleDialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SimpleDialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Slider-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Slider-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Slider-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Slider-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Slider-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Slider-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Slider-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Slider-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Slider-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Slider.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SpinWheel-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SpinWheel-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SpinWheel-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SpinWheel-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SpinWheel-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SpinWheel-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/SpinWheel-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SpinWheel-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SpinWheel-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SpinWheel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SpinWheel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SpinWheel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SpinWheel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SpinWheel.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SpinWheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/SpinWheel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/SpinWheel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/SpinWheel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/SpinWheel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/SpinWheel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SpinWheelDatePicker.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SpinWheelDatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SpinWheelSlot.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SpinWheelSlot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SpinWheelTimePicker.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SpinWheelTimePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/StageController.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/StageController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/StoreCarousel.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/StoreCarousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/StringDataSource.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/StringDataSource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/SuffixFileTypeMap.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/SuffixFileTypeMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SwapView.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/SwapView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Switch-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Switch-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Switch-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Switch-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Switch-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Switch-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Switch-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Switch-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Switch-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Switch.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Switch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Switch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Switch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Switch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Switch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/TOC.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TabBar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TabBar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TabBar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TabBar-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TabBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TabBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/TabBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TabBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TabBar-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TabBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TabBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TabBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TabBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TabBar.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TabBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TabBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TabBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/TabBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TabBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TabBar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TabBarButton.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TabBarButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TextArea-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TextArea-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TextArea-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TextArea-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TextArea-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TextArea-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/TextArea-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TextArea-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TextArea-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TextArea.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TextArea.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TextArea.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TextArea.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TextArea.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TextArea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TextArea.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TextArea.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/TextArea.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TextArea.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TextArea.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TextBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TextBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TextBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TextBox-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TextBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TextBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/TextBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TextBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TextBox-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TextBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TextBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TextBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TextBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TextBox.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/TextBox.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TextBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/TextBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TextBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TextBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/TextBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TextBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TextBox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/TimePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/TimePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/TimePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/TimePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TimePicker.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TimePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ToggleButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ToggleButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ToggleButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ToggleButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ToggleButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ToggleButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ToggleButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ToggleButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ToggleButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ToggleButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ToggleButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ToggleButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ToggleButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ToggleButton.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ToggleButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ToggleButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ToggleButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ToggleButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ToggleButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ToggleButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ToolBarButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ToolBarButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ToolBarButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ToolBarButton-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ToolBarButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ToolBarButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ToolBarButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ToolBarButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ToolBarButton-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ToolBarButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ToolBarButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ToolBarButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ToolBarButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ToolBarButton.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ToolBarButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ToolBarButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ToolBarButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ToolBarButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ToolBarButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ToolBarButton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Tooltip-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Tooltip-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Tooltip-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Tooltip-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Tooltip-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Tooltip-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Tooltip-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Tooltip-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Tooltip-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Tooltip.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/Tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/Tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/Tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/Tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/Tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TransitionEvent.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TransitionEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TreeView.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/TreeView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/UrlDataSource.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/dh/UrlDataSource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ValuePicker-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ValuePicker-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ValuePicker-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ValuePicker-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ValuePicker-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ValuePicker-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ValuePicker-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ValuePicker-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ValuePicker-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ValuePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ValuePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ValuePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ValuePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ValuePicker.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ValuePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/ValuePicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/ValuePicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/ValuePicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/ValuePicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ValuePicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ValuePickerDatePicker.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ValuePickerDatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ValuePickerSlot.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ValuePickerSlot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ValuePickerTimePicker.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ValuePickerTimePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Video.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/Video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/View.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/View.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/View.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/View.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/View.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/View.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/View.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/View.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/View.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/View.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/View.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ViewController.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/ViewController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ComboBoxMenu.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ComboBoxMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ContentPaneMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ContentPaneMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_DataListMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_DataListMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_DataMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_DataMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_DatePickerMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_DatePickerMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_EditableIconMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_EditableIconMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_EditableListMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_EditableListMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ExecScriptMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ExecScriptMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/_FormWidget.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/_FormWidget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_IconItemPane.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_IconItemPane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ItemBase.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ItemBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ListTouchMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ListTouchMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_PickerBase.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_PickerBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_PickerChooser.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_PickerChooser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ScrollableMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_ScrollableMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_StoreListMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_StoreListMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_StoreMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_StoreMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_TimePickerMixin.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_TimePickerMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/_Widget.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/_Widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_base.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/_base.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/_base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_compat.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/_compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/_event.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/_event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/android-app-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/android-app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/android-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/android.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/base-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/base-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/base-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/base-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/dijit/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/blackberry-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/blackberry.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/bookmarkable.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/bookmarkable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jQuerySwipe/buenosaires.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/build/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/build/build.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/common-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/common-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/common-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/common-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/common-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/common-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/common-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/common-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/common-compat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/common.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/compat.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/compat.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/app/compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/compile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/cover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/coverv.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/crossdomain.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/css.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/cube.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/custom-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/deviceTheme.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/deviceTheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/dijit/dijit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/dissolve.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/dojo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/domButtons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/extend.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/fade.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/faq.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/flip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/htaccess.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/html.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/i18n.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/iconUtils.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/iconUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ipad-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/ipad.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/iphone-app-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/iphone-app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/iphone-compat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/iphone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/js.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/lazyLoadUtils.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/lazyLoadUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/migrationAssist.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/migrationAssist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/misc.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/mobile-all.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/mobile-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/modernizr-2.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/pageTurningUtils.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/pageTurningUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jQuerySwipe/paris.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/parser.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/reveal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/revealv.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/scaleIn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/scaleOut.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jQuerySwipe/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/scrollable.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/scrollable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/slide.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/slidev.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/sniff.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/sniff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jQuerySwipe/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/swap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/swirl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jQuerySwipe/sydney.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/transition.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/uacss.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/uacss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/android/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/blackberry/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/custom/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/iphone/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/viewRegistry.js.uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/viewRegistry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/zoomIn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dojox/mobile/themes/common/transitions/zoomOut.css" />
+      <change type="DELETED" beforePath="C:\Users\jepicard\WebstormProjects\TestMobileFrameworks\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\jepicard\WebstormProjects\TestMobileFrameworks\mySecondWebAPp" afterPath="" />
+    </list>
+    <ignored path="TestMobileFrameworks.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="21b638ab-834f-447e-a38b-a6a1f8170e18" time="1369726995866" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TestMobileFrameworks" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="vendor">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="jQuerySwipe">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="dojox">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="dojox">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mobile">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="doc">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TestMobileFrameworks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="css">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="PublishConfig" serverName="apache" serverId="54b6b99f-2442-4472-9099-c93d2f63cea3" autoUpload="true">
+    <servers>
+      <server id="54b6b99f-2442-4472-9099-c93d2f63cea3">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jepicard\WebstormProjects\TestMobileFrameworks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21b638ab-834f-447e-a38b-a6a1f8170e18" name="Default" comment="" />
+      <created>1369726728184</created>
+      <updated>1369726728184</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1369727002177</created>
+      <updated>1369727002177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.67" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.67" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+
